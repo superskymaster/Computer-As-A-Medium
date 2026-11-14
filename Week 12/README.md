@@ -4,4 +4,4 @@
 ## Cole and Nicolas did task 3 together
 ## Ninja Sprite: https://assetstore.unity.com/packages/2d/characters/ninja-sprite-sheet-free-93901
 ## Cole's Video:
-## Nicolas' Video:
+## Nicolas' Video: https://youtu.be/OjKOiVJmR0E
